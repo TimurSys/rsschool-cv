@@ -1,1 +1,1 @@
-# https://TimurSys.github.io/rsschool-cv/cv
+# https://TimurSys.github.io/rsschool-cv/
